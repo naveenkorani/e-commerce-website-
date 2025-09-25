@@ -689,6 +689,5 @@ input[type="checkbox"].modal-toggle{display:none}
         <div class="small muted">© Copper Fit 2025</div>
       </div>
     </footer>
-  </div>
 </body>
 </html>
