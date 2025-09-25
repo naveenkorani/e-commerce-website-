@@ -270,7 +270,6 @@ input[type="checkbox"].modal-toggle{display:none}
       </div>
     </section>
         <div style="margin-top:18px;font-size:13px;color:var(--muted)"></div>
-      </aside>
       <main>
         <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
           <div>
